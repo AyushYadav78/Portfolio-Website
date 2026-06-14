@@ -94,7 +94,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import Tilt from "react-parallax-tilt";
-import Profile from "../../assets/Profile.png";
+import Aypic1 from "../../assets/Aypic1.jpg";
 
 const About = () => {
   return (
@@ -177,7 +177,7 @@ const About = () => {
             "
           >
             <img
-              src={Profile}
+              src={Aypic1}
               alt="Ayush Yadav"
               className="w-full h-full rounded-full object-cover
               drop-shadow-[0_10px_30px_rgba(130,69,236,0.5)]"
